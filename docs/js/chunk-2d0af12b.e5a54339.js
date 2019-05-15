@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0af12b"],{"0d89":function(n,e,a){"use strict";a.r(e);var t=function(){var n=this,e=n.$createElement,a=n._self._c||e;return a("p",[n._v("购物仅仅")])},u=[],c={name:"Fund"},r=c,s=a("2877"),l=Object(s["a"])(r,t,u,!1,null,"546ab1af",null);e["default"]=l.exports}}]);

@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c7b60"],{"527d":function(n,e,c){"use strict";c.r(e);var t=function(){var n=this,e=n.$createElement,c=n._self._c||e;return c("p",[n._v("满减优惠")])},a=[],u={name:"Discount"},s=u,o=c("2877"),r=Object(o["a"])(s,t,a,!1,null,"a5e52ac6",null);e["default"]=r.exports}}]);

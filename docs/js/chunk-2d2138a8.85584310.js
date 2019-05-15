@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2138a8"],{acb2:function(n,e,c){"use strict";c.r(e);var t=function(){var n=this,e=n.$createElement,c=n._self._c||e;return c("p",[n._v("优惠券")])},a=[],u={name:"Coupon"},o=u,p=c("2877"),r=Object(p["a"])(o,t,a,!1,null,"b4c83866",null);e["default"]=r.exports}}]);
