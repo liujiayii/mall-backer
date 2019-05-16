@@ -9,7 +9,7 @@
         </a-col>
       </a-row>
       <a-drawer :visible="visible" placement="left" :closable="false" wrap-class-name="drawer" @close="onClose">
-        <slide/>
+        <slide v-on:changeVisible="(item)=>visible=item"/>
       </a-drawer>
       <a-layout :style="{overflow:'hidden',width:'100%',background:'#f0f0f8'}">
         <a-row type="flex" justify="space-between">
@@ -184,9 +184,5 @@
         }
       }
     }
-  }
-
-  .ant-layout-content::-webkit-scrollbar {
-    display: none;
   }
 </style>

@@ -68,6 +68,7 @@
     justify-content: center;
     align-items: center;
     background: url("../../assets/images/loginBg.png");
+    background-size: contain;
     overflow: hidden;
 
     img {

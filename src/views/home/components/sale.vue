@@ -5,7 +5,7 @@
       <a-radio-group default-value="a" button-style="solid">
         <a-radio-button value="a">日</a-radio-button>
         <a-radio-button value="b">月</a-radio-button>
-        <a-radio-button value="c">>年></a-radio-button>
+        <a-radio-button value="c">年</a-radio-button>
       </a-radio-group>
     </div>
     <a-table :columns="columns" :data-source="[...data,...data,...data]" bordered/>
