@@ -26,7 +26,7 @@
                 <a-col>
                   <div class="user-wrap">
                     <a-icon class="trigger" type="fullscreen" @click="fullScreen"/>
-                    <a href="https://github.com/liujiayii/backer-web" target="_blank">
+                    <a href="https://github.com/liujiayii/mall-backer" target="_blank">
                       <a-icon class="trigger" type="question-circle"/>
                     </a>
                     <a-dropdown :style="{cursor:'pointer',marginRight:'20px',display:'inline-block'}">

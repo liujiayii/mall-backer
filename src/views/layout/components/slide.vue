@@ -3,7 +3,7 @@
     <div class="logo" :style="{marginLeft:collapsed?'26px':'16px'}"></div>
     <a-menu
       mode="inline"
-      :default-selected-keys="[$route.path]"
+      :defaultSelectedKeys="['/home']"
       :style="{ borderRight: 0 }"
       :open-keys="openKeys"
       @openChange="onOpenChange"
